@@ -965,6 +965,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 
+.logo a img {
+  width: 200px;
+  height: auto;
+}
+
 .header_middle {
   background: #ffd54c;
   padding: 25px 0;
